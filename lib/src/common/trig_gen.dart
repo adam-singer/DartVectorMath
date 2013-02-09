@@ -18,7 +18,7 @@
   3. This notice may not be removed or altered from any source distribution.
 */
 
-part of vector_math_browser;
+part of vector_math_common;
 
 /// Returns sine of [arg]. Return type matches the type of [arg]
 dynamic sin(dynamic arg, [dynamic out=null]) {

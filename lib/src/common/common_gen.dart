@@ -19,7 +19,7 @@
 
 */
 
-part of vector_math_browser;
+part of vector_math_common;
 
 /// Returns absolute value of [arg].
 dynamic abs(dynamic arg, [dynamic out=null]) {

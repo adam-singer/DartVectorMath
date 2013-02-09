@@ -18,7 +18,7 @@
   3. This notice may not be removed or altered from any source distribution.
 */
 
-part of vector_math_browser;
+part of vector_math_common;
 
 /// Returns [x] raised to the exponent [y]. Supports vectors and numbers.
 dynamic pow(dynamic x, dynamic y, [dynamic out=null]) {
